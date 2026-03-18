@@ -4,12 +4,14 @@
     "HEDVersion": "8.3.0",
     "Description": "The formation of enduring relationships dramatically influences future behavior, promoting affiliation between familiar individuals. The neural mechanisms of how such attachments are encoded to elicit and reinforce specific social behaviors in distinct ethological contexts remain understudied. Signaling via the oxytocin receptor (Oxtr) in the nucleus accumbens (NAc) facilitates social reward as well as pair bond formation between mates in socially monogamous prairie voles. How Oxtr function influences activity in the NAc during pair bonding to promote affiliative behavior with partners and rejection of other potential mates has not been determined. Using in vivo fiber photometry across pair bond formation and social attachment behaviors, we demonstrate that genetic loss of Oxtr function sex-specifically disrupts pair bonding behaviors and associated activity in the NAc. In females, loss of Oxtr influences prosocial behavior in a bonding-state-dependent manner. Oxtr-null females demonstrate reduced prosocial behaviors and lower activity in the NAc during initial chemosensory investigation of novel males. Following bond formation, affiliative behavior with partners and neural activity in the NAc during these interactions increase in an Oxtr-independent manner. Conversely, males lacking Oxtr display increased prosocial investigation of novel females. Altered behavioral and neural activity patterns in Oxtr-null males during their first interactions with females predict their future preference for a partner or stranger days later. These findings reconcile prior pharmacological and genetic studies. We demonstrate that disrupting Oxtr function sex-specifically influences the early development of pair bonds by modulating prosociality and the neural processing of sensory cues and social interactions with novel individuals, unmasking underlying sex differences in the neural pathways regulating the formation of long-term relationships.",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Hoglen, Nerissa"
+    ],
     "License": "CC-BY-4.0",
     "GeneratedBy": [
         {
             "Name": "nwb2bids",
-            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Version": "0.11.2.dev15+g782176cb1",
             "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
             "CodeURL": "https://github.com/con/nwb2bids"
         }
